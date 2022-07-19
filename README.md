@@ -1,3 +1,8 @@
 - 👋 Hi, I’m Manomay!
-- 💻 I’m a CSE fresher
+- 💻 
+- Java    4/5
+- Python  4/5
+- C++     3/5 
+- Kotlin & Android Development  2/5
+- Swift and iOS development     1/5
 - 📫 Reach me on discord - mank#1001
