@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Manomay!
 - 💻 
 - Java    4/5
-- Python  4/5
-- C++     3/5 
-- Kotlin & Android Development  2/5
+- M 2/5
+- E 3/5
+- R 0/5
+- N 2/5
+- Kotlin & Android Development  1/5
 - Swift and iOS development     1/5
 - 📫 Reach me on discord - mank#1001
