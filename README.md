@@ -16,11 +16,12 @@
 
 ## My learning progress
 + ```MERN STACK``` -> ```80%```
+> currently learning Redux and GraphQL
 
-## My top 2 projects
+## My top 3 projects
++ [minimaList - a work distribution tracker](https://github.com/gitmank/minimaList)
 + [Trapped - The Escape Room](https://github.com/gitmank/TRAPPED-Escape-Room)
 + [A Centralised Vulnerability Reporting System](https://github.com/gitmank/DSN2098-VVRS)
-> I've gotten much better since these two, better get working on something new :/
 
 ## Contact me
 [nominal.grabs0r@icloud.com](mailto:nominal.grabs0r@icloud.com)
