@@ -15,7 +15,7 @@
 - a fresh idea for SIH 2023
 
 ## My learning progress
-+ ```MERN STACK``` -> ```70%```
++ ```MERN STACK``` -> ```80%```
 
 ## My top 2 projects
 + [Trapped - The Escape Room](https://github.com/gitmank/TRAPPED-Escape-Room)
