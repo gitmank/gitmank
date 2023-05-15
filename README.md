@@ -2,7 +2,7 @@
 
 ## I'm aiming for perfection in
 1. Web Development </font>
-2. Cybersecurity
+2. Web Security
 > in order of preference  
 > yeah just two, quality over quantity ig
 
@@ -10,18 +10,13 @@
 + transition from react to react native and try building iOS apps
 + continue learning solidity and hardhat so I can try to make dApps
 
-## Projects I'm currently working on
-- a second year project
-- a fresh idea for SIH 2023
-
 ## My learning progress
-+ ```MERN STACK``` -> ```80%```
-> currently learning Redux and GraphQL
++ ```MERN STACK``` -> ```70%```
+> currently learning Next and Flask
 
-## My top 2 projects
-+ [minimaList - a work distribution tracker](https://github.com/gitmank/minimaList)
->   minimaList is an ongoing project
-+ [Murder Mystery Event Portal](https://himym.replmank.repl.co)
+## My best project
++ event-checkin-system
+> a form endpoint that instantly mails a QR ticket on submitting a Google Form
 
 ## Contact me
 [nominal.grabs0r@icloud.com](mailto:nominal.grabs0r@icloud.com)
