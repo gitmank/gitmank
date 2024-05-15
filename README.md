@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Manomay!
-> here's my entire file in one file
+> here's my entire life in one file
 
 ## I'm aiming for perfection in
 1. web - MERN stack development and web security
