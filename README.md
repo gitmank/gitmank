@@ -17,25 +17,25 @@
 > - improving my development speed
 > - learning performance optimisations and best practices
 > - learning the new React 19 concepts (like server actions and components)
-+ ```AWS Cloud``` -> ```20%```
-#### when I hear a problem statement I can:
- - select appropriate services that can be used to build a solution
- - plan how they would connect and communicate
- - figure out which configurations would make the architecture secure
-> but I'm still learning to implement such solutions in practice
++ ```AWS Cloud``` -> ```40%```
+#### when you give me a use case, I can:
+ - plan a solution with appropriate services
+ - optimize the plan for security and cost
+ - deploy simple solutions involving 3-5 services
+> I'm most comfortable with EC2, ECS, S3, RDS, and VPC
 
 ## My best projects
-+ devscene passes - popular ticketing system at my uni
-> formless registration + paperless attendance + fast QR checkin + mailing service   
++ [devscene passes](https://devscene.co) - popular ticketing system at my uni
+> formless registration + paperless attendance + fast QR checkin + mailing service\
 > 4500+ tickets generated at 8+ events
 
-+ an AI-assisted recruitment system for a uni club
-> GPT-4 suggestions while filling a form  
-> GPT-4 ratings and summaries for recruiters to speed up decision making
++ [chuckit.xyz](https://chuckit.xyz) - secure file sharing platform
+> files are end-to-end encrypted with AES\
+> respects user privacy and has super simple UI
 
 ## Currently working on
-+ vault - a CLI file sharing tool
-> encrypts, decrypts, verifies signatures, magically generates URL to share
++ passing my AWS SAA-C03 exam, scheduled in Nov 2024!
+> I've spent over 100 hours playing with the AWS Console and CLI
 
 ## Contact me
 [nominal.grabs0r@icloud.com](mailto:nominal.grabs0r@icloud.com)
