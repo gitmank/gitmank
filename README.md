@@ -7,10 +7,9 @@
 
 ## My progress so far
 + ```MERN STACK``` -> ```90%```  
-#### I can confidently build anything in Node and Python
+> I can confidently build anything in Node and Python
 + ```AWS + GCP``` -> ```60%```
-#### when you give me a use case, I can:
-- deploy and manage solutions involving 3-5 services
+> I can deploy and manage solutions involving 3-5 services
 
 ## My best projects
 + [devscene passes](https://devscene.co) - popular ticketing system at my uni
